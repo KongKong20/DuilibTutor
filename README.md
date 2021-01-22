@@ -1,7 +1,7 @@
 # DuilibTutor
 Duilib 教程指南
 
-DuilibMinDemo：最简单的Demo
+DuilibMinDemo：调用Duilib动态库的Demo
 
 博客地址：https://blog.csdn.net/weixin_42194433
 
