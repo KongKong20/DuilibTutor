@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window size="200,100">
+    <HorizontalLayout bkcolor="#FFFFFFFF">
+		<Button name="btn" text="按钮" height="40" width="80" bordersize="1,1,1,1" bordercolor="#FFBCBCBC"/>
+    </HorizontalLayout>
+</Window>
