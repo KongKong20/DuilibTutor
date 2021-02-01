@@ -1,6 +1,8 @@
 # DuilibTutor
 Duilib 教程指南
 
+DuilibFormwork：Duilib模板
+
 DuilibMinDemo：调用Duilib动态库的Demo
 
 DuilibMinDemoStatic：调用Duilib静态库的Demo
